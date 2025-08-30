@@ -1,2 +1,2 @@
 # Code_Converter
-Code_Converter for multiple code types 
+Code_Converter für diverse Codes 
